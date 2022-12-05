@@ -1,5 +1,4 @@
 #include "Variable.h"
-#include <stdio.h>
 
 void Variable::Run() {
 	printf("char : %d\n", (int)sizeof(char));

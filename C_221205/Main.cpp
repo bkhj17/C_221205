@@ -1,8 +1,10 @@
 //#include "HelloWorld.h"
 //#include "Variable.h"
-#include "Operator.h"
+//#include "Operator.h"
+//#include "Conditional.h"
+#include "Homework.h"
 
 int main() {
-	Operator::Run();
+	Homework::Run();
 	return 0;
 }

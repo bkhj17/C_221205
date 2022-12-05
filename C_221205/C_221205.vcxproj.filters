@@ -27,6 +27,12 @@
     <ClCompile Include="Operator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Conditional.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Homework.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HelloWorld.h">
@@ -39,6 +45,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Operator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Conditional.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Homework.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
